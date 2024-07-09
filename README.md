@@ -48,3 +48,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 나만의 청첩장 만들기
 
 토이 프로젝트 화이팅!
+
+Github 코드 작성자 테스트
