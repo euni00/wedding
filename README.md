@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 나만의 청첩장 만들기
-
 토이 프로젝트 화이팅!
 
-Github 연동 테스트4
+prettier 설정
+alias 설정
