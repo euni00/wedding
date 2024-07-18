@@ -50,3 +50,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 prettier 설정
 alias 설정
+정기배포 이슈로 작업 불가능,,,
