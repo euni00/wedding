@@ -1,4 +1,7 @@
-@charset "urf-8"
+@charset "urf-8";
+
+@import url("./font.scss");
+
 
 :root {
     --red: #ea7664;
@@ -6,4 +9,9 @@
     --brown: #89757a;
     --beige: #f6f5f5;
     
+}
+
+// 곰신체는 font-family가 존재하지 않음.
+body {
+    font-family: 'NanumPen';
 }
