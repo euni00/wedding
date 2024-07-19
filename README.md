@@ -45,9 +45,13 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-나만의 청첩장 만들기
-토이 프로젝트 화이팅!
+프로젝트명 : 나만의 청첩장 만들기
+버전 관리 : yarn
 
-prettier 설정
-alias 설정
-정기배포 이슈로 작업 불가능,,,
+브랜치 관리
+main : 운영 브랜치
+dev : 개발 브랜치
+release : 당장 배포할 수 있는 브랜치
+feature : 기능별 브랜치 혹은 추가 수정사항을 적용할 브랜치
+
+FE 기술 스택 : React, Typescript
